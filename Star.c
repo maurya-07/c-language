@@ -1,4 +1,4 @@
-// WAP to print star pattern
+// WAP to print left word star pattern
 
 #include <stdio.h>
 int main() {
